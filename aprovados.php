@@ -5,7 +5,9 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
         <meta name="description" content="Conteúdo para Ensino Fundamental e Médio. Vestibular, ENEM, Simulados, Exercícios resolvidos, Meu Artigo, Monografias, Português, História, Matemática, Geografia." />
-        <title>Aprovados</title>
+        <title>
+			Aprovados
+		</title>
         <link rel="shortcut icon" href="favicon.ico" title="Favicon">
         <link href="css/lightbox.css" rel="stylesheet">
         <link href="css/index.css" rel="stylesheet">
